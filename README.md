@@ -4,7 +4,7 @@ Standalone Python tool to convert OpenVAS / Greenbone XML reports into professio
 
 ---
 
-## 🛠️ Requisiti di Sistema e Installazione
+## 🛠️ Requirements and installation
 
 1. Make sure to have Python 3 installed on your system.
 2. Install the requirements:
