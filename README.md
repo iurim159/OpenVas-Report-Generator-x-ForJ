@@ -9,4 +9,7 @@ Tool autonomo in Python per convertire i report XML di OpenVAS / Greenbone in do
 1. Assicurati di avere Python 3 installato sul tuo sistema.
 2. Installa le librerie richieste eseguendo il comando nel terminale:
    ```bash
-   pip install -r requirements.txt 
+   pip install -r requirements.txt
+3. Avvia il tool:
+   ```bash
+   python3 VAxIP.py <file_report.xml>
